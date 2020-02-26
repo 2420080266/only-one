@@ -1,0 +1,6 @@
+#include<iostream>
+usenamespace std;
+int mian(void)
+{
+cout<<"hello"<<"\n";
+}
